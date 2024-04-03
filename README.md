@@ -2,7 +2,7 @@
 - 👀 I’m interested in Gaming, Programming and PixelArt
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on OpenSourceProjects that I can expand upon
-- 📫 How to reach me "Currently only here for now ^-^"
+- 📫 How to reach me "Currently here for now ^-^"
 
 <!---
 SereaAlex/SereaAlex is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
